@@ -12,8 +12,7 @@ with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
 
 setup(
     name="crescience_websocket_py",
-    version='1.0.0',
-    # version='{{VERSION_PLACEHOLDER}}',
+    version='{{VERSION_PLACEHOLDER}}',
     author="Crescience",
     author_email="development@cre.science",
     description="Websocket Client for Crescience devices",
